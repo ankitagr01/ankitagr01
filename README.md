@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## About Me
+Graduate student with more than 2 years of industry experience as a Software Engineer, currently pursuing research in Natural Language Processing, Deep Learning, and Computer Vision at Saarland University, Germany.
