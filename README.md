@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ## About Me
 Graduate student with more than 2 years of industry experience as a Software Engineer, currently pursuing research in Natural Language Processing, Deep Learning, and Computer Vision at Saarland University, Germany.
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/ankitnitb/)
+
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=123ankitagr.visitor-badge)
 
 ### GitHub Stats
