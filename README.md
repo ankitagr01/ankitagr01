@@ -24,9 +24,9 @@ Graduate student with more than 2 years of industry experience as a Software Eng
 
 ### GitHub Stats
 <a href="https://github.com/ankitagr01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=123ankitagr&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ankit's Programming Language Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitagr01&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ankit's Programming Language Stats" />
 </a>
 <a href="https://github.com/ankitagr01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=123ankitagr&show_icons=true&line_height=27&hide=contribs,prs,issues&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ankit's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitagr01&show_icons=true&line_height=27&hide=contribs,prs,issues&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ankit's GitHub Stats" />
 </a>
 
