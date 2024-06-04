@@ -18,10 +18,19 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am a Computer Vision and Deep Learning enthusiast with a passion for solving challenging and real-life problems that positively impact the world. I recently completed my Master's in Data Science and Artificial Intelligence at Saarland University, Germany. I have a strong background in Machine Learning and Deep Learning, with a focus on Computer Vision and Natural Language Processing. In addition, I have a Bachelor's degree in Computer Science and 2 years of experience working as a Software Engineer at J.P. Morgan Chase & Co.
-I am open for Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing focused job opportunities.
+I am an AI Research Engineer with a focus on **Large Language Models (LLMs) and Natural Language Processing (NLP)**, ML, CV and GNNs, passionate about developing innovative solutions that address real-world challenges. 
 
-<!-- Graduate student with more than 2 years of industry experience as a Software Engineer, currently pursuing research in Natural Language Processing, Deep Learning, and Computer Vision at Saarland University, Germany. -->
+Currently, I work at the **German Research Center for Artificial Intelligence (DFKI)** in Saarbruecken, Germany, where I design, implement, and ship state-of-the-art AI models.
+I pursued my Master's in **Data Science and Artificial Intelligence at Saarland University, Germany**, and have a strong background in Machine Learning and Deep Learning, with particular expertise in LLMs, NLP, and Computer Vision. Previously, I worked as a Software Engineer at J.P. Morgan Chase & Co. for two years, where I optimized trade booking systems and improved performance through advanced data structures and efficient algorithms.
+
+My Qualities:  
+Solid understanding of LLMs, NLP, deep learning, and machine learning.   
+Professional experience with Python (6+ years of exp), PyTorch, Django, SQL, AWS, and Kubernetes.  
+Skills: Transformers, HuggingFace, GPT, Llama-2/3, RAG, VectorDB, LangChain, SpaCy, NLTK, OpenCV, Scikit-Learn, CUDA, TensorFlow, Docker, PostgreSQL, Pandas, Numpy, Flask, Git.   
+
+Contact me at: ankitagr.nitb@gmail.com or +49-152-58484978.
+
+<!-- AI Research Engineer with a focus on **Large Language Models (LLMs) and Natural Language Processing (NLP)**, Expert in Machine Learning, AI; LLMs. -->
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/ankitagr01/)
 [![Email](https://img.shields.io/badge/Email-%20-gold)](mailto:ankitagr.nitb@gmail.com)
