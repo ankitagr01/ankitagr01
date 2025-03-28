@@ -48,8 +48,11 @@ Contact me at: ankitagr.nitb@gmail.com or +49-152-58484978. -->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/ankitagr01/)
 [![Email](https://img.shields.io/badge/Email-%20-gold)](mailto:ankitagr.nitb@gmail.com)
 [![Résumé](https://img.shields.io/badge/Résumé%2FCV-%20-brightgreen)](https://drive.google.com/file/d/1WjxNzMZVllYUh8cI3_8IE4th31ZtBIo4/view?usp=sharing)
+![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/ankitagr01/visits)
+
+<!--
 ![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ankitagr01&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
-<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ankitagr01.visitor-badge) -->
+ ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ankitagr01.visitor-badge) -->
 
 
 
