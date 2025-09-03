@@ -63,6 +63,6 @@ Contact me at: ankitagr.nitb@gmail.com or +49-152-58484978. -->
 </a>
 
 <a href="https://github.com/ankitagr01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitagr01&show_icons=true&line_height=27&hide=contribs,prs,issues&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ankit's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitagr01&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ankit's GitHub Stats" />
 </a>
 
