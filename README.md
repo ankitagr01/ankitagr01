@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 I'm **Ankit**, an **Applied Scientist (Generative AI)** at **SUMM AI, Munich**, specializing in **Large Language Models (LLMs)** and **Diffusion Image Models**. I’m passionate about building **scalable AI solutions**, tackling real-world challenges, and pushing the boundaries of **Generative AI** and **advanced ML techniques**.  
 
 ### 🔹 Core Interests & Expertise  
-- **Generative AI** – Large Language Models (LLMs), Diffusion Models  
+- **Generative AI** – AI Agents, Large Language Models (LLMs), RAG, Diffusion Models  
 - **Multimodal AI** – Text, image, and video models  
 - **Model Optimization** – Enhancing training and inference efficiency  
 - **MLOps & Deployment** – Scalable AI solutions using **Azure ML, MLflow, and cloud services**, with a focus on clean and maintainable code  
