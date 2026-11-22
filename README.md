@@ -1,68 +1,32 @@
-### Hi there 👋
+# Hi, I'm Ankit 👋
 
-<!--
-**123ankitagr/123ankitagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founding AI Engineer at SUMM AI · Munich, Germany**
 
-Here are some ideas to get you started:
+I build production AI systems: LLM agents, retrieval-augmented generation (RAG), memory and evaluation pipelines. I work across research, engineering and product delivery—from the first experiment to deployment and monitoring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously, I worked on applied AI research at **DFKI** and enterprise software at **JPMorgan Chase**. I hold an **MSc in Data Science and Artificial Intelligence from Saarland University**.
 
+## What I work on
 
-## About Me
+- **LLM applications:** tool calling, agent orchestration, memory and grounded answers.
+- **Retrieval:** dense and hybrid search, document pipelines and retrieval evaluation.
+- **Reliable AI:** automated evaluations, observability, and quality, latency and cost trade-offs.
+- **Applied ML:** NLP, computer vision, graph neural networks and model fine-tuning.
 
-I'm **Ankit**, an **Applied Scientist (Generative AI)** at **SUMM AI, Munich**, specializing in **Large Language Models (LLMs)** and **Diffusion Image Models**. I’m passionate about building **scalable AI solutions**, tackling real-world challenges, and pushing the boundaries of **Generative AI** and **advanced ML techniques**.  
+**Tools I use:** Python, PyTorch, Hugging Face, LangChain, LangGraph, LiteLLM, FastAPI, Django, PostgreSQL, Docker, Kubernetes, AWS and GCP.
 
-### 🔹 Core Interests & Expertise  
-- **Generative AI** – AI Agents, Large Language Models (LLMs), RAG, Diffusion Models  
-- **Multimodal AI** – Text, image, and video models  
-- **Model Optimization** – Enhancing training and inference efficiency  
-- **MLOps & Deployment** – Scalable AI solutions using **Azure ML, MLflow, and cloud services**, with a focus on clean and maintainable code  
-- **Research & Innovation** – Implementing **state-of-the-art** models and cutting-edge AI advancements  
-- **Analytical & Strategic Thinking** – Model evaluation, performance tuning, and optimizing AI workflows  
+## Let's connect
 
-**Always open to collaboration—feel free to connect!** Reach me at **ankitagr.nitb@gmail.com** or **+49-152-58484978**.
+Open to conversations about applied AI, research and collaboration.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit_Agrawal-0A66C2?style=flat-square)](https://www.linkedin.com/in/ankitagr01/)
+[![Email](https://img.shields.io/badge/Email-ankitagr.nitb%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ankitagr.nitb@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=ankitagr01&label=Profile%20views&color=2563eb&style=flat-square)
 
-<!-- I am an AI Research Engineer with a focus on **Large Language Models (LLMs) and Natural Language Processing (NLP)**, ML, CV and GNNs, passionate about developing innovative solutions that address real-world challenges. 
+## GitHub activity
 
-Currently, I work at the **German Research Center for Artificial Intelligence (DFKI)** in Saarbruecken, Germany, where I design, implement, and ship state-of-the-art AI models.
-I pursued my Master's in **Data Science and Artificial Intelligence at Saarland University, Germany**, and have a strong background in Machine Learning and Deep Learning, with particular expertise in LLMs, NLP, and Computer Vision. Previously, I worked as a Software Engineer at J.P. Morgan Chase & Co. for two years, where I optimized trade booking systems and improved performance through advanced data structures and efficient algorithms.
+[![Ankit's GitHub contribution activity](assets/github-activity.svg)](https://github.com/ankitagr01?tab=overview)
 
-My Qualities:  
-Solid understanding of LLMs, NLP, deep learning, and machine learning.   
-Professional experience with Python (6+ years of exp), PyTorch, Django, SQL, AWS, and Kubernetes.  
-Skills: Transformers, HuggingFace, GPT, Llama-2/3, RAG, VectorDB, LangChain, SpaCy, NLTK, OpenCV, Scikit-Learn, CUDA, TensorFlow, Docker, PostgreSQL, Pandas, Numpy, Flask, Git.   
+Updated daily from GitHub's publicly visible contribution calendar. Contributions are not the same as commits; private work is represented only to the extent GitHub makes aggregate activity public. This is not a measure of my full professional work or language usage.
 
-Contact me at: ankitagr.nitb@gmail.com or +49-152-58484978. -->
-
-<!-- AI Research Engineer with a focus on **Large Language Models (LLMs) and Natural Language Processing (NLP)**, Expert in Machine Learning, AI; LLMs. -->
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)](https://www.linkedin.com/in/ankitagr01/)
-[![Email](https://img.shields.io/badge/Email-%20-gold)](mailto:ankitagr.nitb@gmail.com)
-[![Résumé](https://img.shields.io/badge/Résumé%2FCV-%20-brightgreen)](https://drive.google.com/file/d/1WjxNzMZVllYUh8cI3_8IE4th31ZtBIo4/view?usp=sharing)
-![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/ankitagr01/visits)
-
-<!--
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ankitagr01&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ankitagr01.visitor-badge) -->
-
-
-
-
-### GitHub Stats
-<a href="https://github.com/ankitagr01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitagr01&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ankit's Programming Language Stats" />
-</a>
-
-<a href="https://github.com/ankitagr01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitagr01&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ankit's GitHub Stats" />
-</a>
-
+[Explore my public repositories →](https://github.com/ankitagr01?tab=repositories)

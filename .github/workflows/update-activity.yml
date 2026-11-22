@@ -1,0 +1,35 @@
+name: Refresh profile activity
+
+on:
+  schedule:
+    - cron: '23 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate public contribution graphic
+        run: python scripts/update_activity.py
+      - name: Save refreshed graphic
+        run: |
+          git config user.name 'Ankit Agrawal'
+          git config user.email 'ankitagr.nitb@gmail.com'
+          git add assets/github-activity.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh GitHub contribution activity'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
